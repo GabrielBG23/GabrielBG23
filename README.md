@@ -33,28 +33,17 @@ Sou um **DevOps Engineer** apaixonado por automação de infraestrutura, cultura
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBG23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG23&layout=compact&langs_count=7&theme=dracula" />
 </p>
-
----
-
-### 📂 Projetos em Destaque
-
-* **[Nome do Projeto de Automação]**: Implementação de infraestrutura como código (IaC) para o deploy automatizado de microserviços.
-* **[SaaS de Marketing]**: Automação de ofertas em larga escala integrando Mercado Livre, Telegram e WhatsApp via Azure Functions.
-* **[Lab de Segurança]**: Ambientes controlados para testes de vulnerabilidades (RCE, XML-RPC).
 
 ---
 
 ### 📬 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[SEU-USUARIO-AQUI]/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielbgoncalve" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:[SEU-EMAIL-AQUI]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
