@@ -32,10 +32,11 @@ Sou um **DevOps Engineer** apaixonado por automação de infraestrutura, cultura
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBG23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG23&layout=compact&langs_count=7&theme=dracula" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielBG23/GabrielBG23/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielBG23/GabrielBG23/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/GabrielBG23/GabrielBG23/output/snake.svg">
+</picture>
 
 ---
 
